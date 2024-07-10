@@ -34,8 +34,9 @@ Detailed steps on how to install and set up the project can be found in [Install
 2. Switch to the "Code" view by clicking the `Raw` button.
 3. Copy the content of `Protection-Instruction.md`.
 4. Create or edit a custom GPT in ChatGPT/OpenAI.
-5. Paste the copied content into the "Instruction" part.
-6. Save the custom GPT.
+5. Copy previous instructions into a text file and upload it as a knowledge file.
+6. Paste the copied content into the "Instruction" part.
+7. Save the custom GPT.
 
 For more detailed installation instructions, see [Installation](docs/installation.md).
 
