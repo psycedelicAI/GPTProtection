@@ -16,10 +16,6 @@
 - Provides guidelines and best practices for maintaining confidentiality.
 - Includes detailed documentation on setting up and using the protection tools.
 
-## Real-Time Monitoring
-- Monitors interactions in real-time to ensure compliance with confidentiality rules.
-- Alerts users if a potential breach of confidentiality is detected.
-
 ## Integration with Existing Systems
 - Seamless integration with existing GPT-based applications.
 - Compatible with various platforms and use cases.
