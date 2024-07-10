@@ -30,10 +30,12 @@ For a detailed list of features, see the [Features](docs/features.md) page.
 
 Detailed steps on how to install and set up the project can be found in [Installation](docs/installation.md).
 
-1. Copy the content of `Protection-Instruction.md`.
-2. Create or edit a custom GPT in ChatGPT/OpenAI.
-3. Paste the copied content into the "Instruction" part.
-4. Save the custom GPT.
+1. Navigate to the `Protection-Instruction.md` file on GitHub.
+2. Switch to the "Code" view by clicking the `Raw` button.
+3. Copy the content of `Protection-Instruction.md`.
+4. Create or edit a custom GPT in ChatGPT/OpenAI.
+5. Paste the copied content into the "Instruction" part.
+6. Save the custom GPT.
 
 For more detailed installation instructions, see [Installation](docs/installation.md).
 
