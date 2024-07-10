@@ -30,15 +30,12 @@ For a detailed list of features, see the [Features](docs/features.md) page.
 
 Detailed steps on how to install and set up the project can be found in [Installation](docs/installation.md).
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/psycedelicAI/GPTProtection.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd GPTProtection
-    ```
-3. Follow any additional setup instructions in [Installation](docs/installation.md).
+1. Copy the content of `Protection-Instruction.md`.
+2. Create or edit a custom GPT in ChatGPT/OpenAI.
+3. Paste the copied content into the "Instruction" part.
+4. Save the custom GPT.
+
+For more detailed installation instructions, see [Installation](docs/installation.md).
 
 ## Usage
 
@@ -54,4 +51,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For more information, 
+For more information, contact the author at [openai@psycedelicai.com](mailto:openai@psycedelicai.com).
