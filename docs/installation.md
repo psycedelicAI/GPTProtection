@@ -24,11 +24,19 @@ Follow these steps to set up the GPTProtection custom instructions on ChatGPT/Op
    - If creating a new GPT, follow the prompts to set it up.
    - If editing an existing GPT, open the GPT for editing.
 
-5. **Paste the copied content into the "Instruction" part**:
+5. **Copy previous instructions into a text file**:
+   - If you have previous instructions in the custom GPT, copy them into a new text file (e.g., `previous_instructions.txt`).
+   - Save this text file on your local machine.
+
+6. **Upload the text file as a knowledge file**:
+   - In the custom GPT setup, find the option to upload knowledge files.
+   - Upload the `previous_instructions.txt` file you saved earlier.
+
+7. **Paste the copied content into the "Instruction" part**:
    - Find the "Instruction" field in the custom GPT setup.
    - Paste the content you copied from `Protection-Instruction.md` into this field.
 
-6. **Save the custom GPT**:
+8. **Save the custom GPT**:
    - Follow any additional steps required by the platform to save your custom GPT.
    - Ensure that the instructions are correctly set and saved.
 
