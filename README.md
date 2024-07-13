@@ -10,6 +10,7 @@ This repository contains instructions and tools for protecting sensitive informa
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Prompt Source Codes](#prompt-source-codes)
 
 ## Introduction
 
@@ -54,4 +55,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For more information, contact the author at [openai@psycedelicai.com](mailto:openai@psycedelicai.com).
+For more information, contact the author at [CONTACT].
+
+## Prompt Source Codes
+
+- **HomeNurse Prompt Source Code:** See [homenurse.txt](prompts/homenurse.txt) for the source code and [Direct URL for HomeNurse GPT](https://chat.openai.com/g/g-0KGS05rfp-home-nurse).
